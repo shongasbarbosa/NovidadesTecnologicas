@@ -109,7 +109,7 @@
     .errorMessage {
         display: flex;
         visibility: hidden;
-        color: red;
+        color: #FF0000;
         margin: 0px;
         justify-content: flex-end;
     }
